@@ -1,7 +1,7 @@
 # Instagram Data Analysis and SQLite Database Project
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) 
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
