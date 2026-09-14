@@ -5,7 +5,7 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Internship](https://img.shields.io/badge/Internship-Alfido%20Tech-red)
+![Internship](https://img.shields.io/badge/Internship-Alfido%20Tech-red) 
 
 An end-to-end Instagram data science and database analysis project developed as part of the **Alfido Tech Data Science Internship**.
 
