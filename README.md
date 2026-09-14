@@ -9,7 +9,7 @@
 
 An end-to-end Instagram data science and database analysis project developed as part of the **Alfido Tech Data Science Internship**.
 
-This project combines multiple Instagram CSV files into a structured SQLite database and analyzes user activity, posts, likes, comments, hashtags, followers, and engagement patterns using Python, Pandas, SQL, data visualization, and machine-learning techniques.
+This project combines multiple Instagram CSV files into a structured SQLite database and analyzes user activity, posts, likes, comments, hashtags, followers, and engagement patterns using Python, Pandas, SQL, data visualization, and machine-learning techniques. 
 
 ---
 
