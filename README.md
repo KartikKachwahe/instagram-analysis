@@ -15,7 +15,7 @@ This project combines multiple Instagram CSV files into a structured SQLite data
 
 ## Project Links
 
-- **GitHub Repository:**  
+- **GitHub Repository:**
   [Instagram Analysis](https://github.com/KartikKachwahe/instagram-analysis)
 
 - **Complete Jupyter Notebook:**  
