@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Library-Pandas-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-Alfido%20Tech-red) 
-
+ 
 An end-to-end Instagram data science and database analysis project developed as part of the **Alfido Tech Data Science Internship**.
 
 This project combines multiple Instagram CSV files into a structured SQLite database and analyzes user activity, posts, likes, comments, hashtags, followers, and engagement patterns using Python, Pandas, SQL, data visualization, and machine-learning techniques. 
